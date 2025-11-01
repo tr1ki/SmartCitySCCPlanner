@@ -246,10 +246,3 @@ To add new algorithms:
 3. Add tests in `GraphTests.java`
 4. Update `Main.java` if integration needed
 
-## License
-
-This project is created for educational purposes (Assignment 4).
-
-## Author
-
-Smart City SCC Planner - Graph Algorithms Assignment
