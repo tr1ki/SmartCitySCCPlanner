@@ -25,4 +25,10 @@ public class TopoSort {
         }
         return order;
     }
+
+    // Статический метод для удобства использования
+    public static List<Integer> sort(List<List<Integer>> graph) {
+        TopoSort topoSort = new TopoSort();
+        return topoSort.topoSort(graph);
+    }
 }
