@@ -39,10 +39,6 @@ SmartCitySCCPlanner/
 └── pom.xml                            # Maven configuration
 ```
 
-## Requirements
-
-- **Java**: JDK 21 or higher
-- **Maven**: 3.6+ (for building and testing)
 
 ## Building the Project
 
